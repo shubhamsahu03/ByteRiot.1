@@ -145,6 +145,7 @@ html{
 *nav{
     height: var(--header-height);
     display:flex;
+    overflow:scroll;
     justify-content: space-between;
     align-items: center;
 
